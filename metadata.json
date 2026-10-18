@@ -1,0 +1,6 @@
+{
+  "name": "Memory Web QR",
+  "description": "Turn your memories into an interactive wish that lasts forever with custom Memory Web QRs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
